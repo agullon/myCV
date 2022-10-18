@@ -66,6 +66,12 @@
           "URL": "https://www.linkedin.com/in/alejandrogullon/"
         }
       ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
+        "QA & Testing Engineer"
+      ]
     }
   }
 }
