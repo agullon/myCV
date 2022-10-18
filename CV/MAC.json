@@ -1,23 +1,50 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Alejandro",
       "surnames": "Gullón",
-      "title": "",
       "description": "Software Quality Engineer",
       "location": {
-        "notes": ""
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alejandrogullon/"
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenShift",
+          "type": "technology"
+        }
       }
     ]
   },
