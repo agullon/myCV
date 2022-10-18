@@ -15,6 +15,10 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/agullon"
+      },
+      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alejandrogullon/"
       }
