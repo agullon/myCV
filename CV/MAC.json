@@ -99,12 +99,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -112,6 +106,12 @@
       {
         "skill": {
           "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
           "type": "technology"
         }
       },
