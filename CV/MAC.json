@@ -118,6 +118,27 @@
     ],
     "studies": [
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Prepare for the Google Cloud Platform Associate Cloud Engineer Exam",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "LinkedIn",
+          "description": "The GCP Associate Cloud Engineer certification is intended for those who plan to deploy applications, monitor operations, and manage enterprise solutions on Google Cloud Platform. This learning path helps those looking to earn this prestigious certification.",
+          "URL": "https://www.linkedin.com/learning/certificates/5eef7971f04bcd1433bfa65e3bb693e84f77316f1e1a07472bbb9994acdcc981",
+          "image": {
+            "alt": "1670587482502.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/77509cb7-ce2d-4a93-89a8-a996e4069fba_1670587482502.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "ISTQB Foundation Level",
