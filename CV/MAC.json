@@ -129,6 +129,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "QA & Testing Engineer"
+      ]
+    },
     "status": "openToOffers"
   }
 }
