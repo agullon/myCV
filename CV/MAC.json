@@ -8,7 +8,11 @@
     "profile": {
       "name": "Alejandro",
       "surnames": "Gullón",
+      "title": "Software Quality Engineer",
       "description": "Software Quality Engineer",
+      "avatar": {
+        "alt": ""
+      },
       "location": {
         "notes": "Autocompleted using Google Maps API"
       }
@@ -21,6 +25,60 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alejandrogullon/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Red Hat"
+        },
+        "roles": [
+          {
+            "name": "Software Quality Engineer",
+            "startDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Solera Global Data & Content"
+        },
+        "roles": [
+          {
+            "name": "QA Automation Engineer",
+            "startDate": "2017-11-01",
+            "finishDate": "2021-01-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mántica Solutions"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2014-04-01",
+            "finishDate": "2017-11-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -71,11 +129,6 @@
         }
       ]
     },
-    "preferences": {
-      "preferredRoles": [
-        "DevOps & Infrastructure & SRE",
-        "QA & Testing Engineer"
-      ]
-    }
+    "status": "openToOffers"
   }
 }
