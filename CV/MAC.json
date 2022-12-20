@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -10,10 +10,14 @@
       "surnames": "Gullón",
       "title": "Software Quality Engineer",
       "description": "Software Quality Engineer",
+      "avatar": {
+        "alt": ""
+      },
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -84,10 +88,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -165,8 +171,10 @@
     },
     "preferences": {
       "preferredRoles": [
+        "DevOps & Infrastructure & SRE",
         "QA & Testing Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
