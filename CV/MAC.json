@@ -9,10 +9,7 @@
       "name": "Alejandro",
       "surnames": "Gullón",
       "title": "Software Quality Engineer",
-      "description": "Software Quality Engineer",
-      "avatar": {
-        "alt": ""
-      },
+      "description": "",
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
@@ -176,5 +173,25 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "OpenShift",
+        "type": "technology"
+      }
+    ]
   }
 }
