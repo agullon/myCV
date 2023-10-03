@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,24 +9,14 @@
       "name": "Alejandro",
       "surnames": "Gullón",
       "title": "Software Quality Engineer",
-      "description": "",
+      "description": "Software Quality Engineer",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/agullon"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alejandrogullon/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -85,18 +75,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "Bash",
           "type": "technology"
         }
       },
@@ -108,18 +98,32 @@
       },
       {
         "skill": {
-          "name": "Bash",
+          "name": "OpenShift",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "OpenShift",
+          "name": "Python",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ISTQB Foundation Level",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "ISTQB",
+          "description": "Foundation Level Certificate in Software Testing",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/d218f437-dc6f-4e4d-9de1-1cb3a0cf2118_istqb-certificate.jpg",
+            "alt": "istqb certificate.jpg"
+          }
+        }
+      },
       {
         "studyType": "selfTraining",
         "degreeAchieved": false,
@@ -130,8 +134,8 @@
           "description": "The GCP Associate Cloud Engineer certification is intended for those who plan to deploy applications, monitor operations, and manage enterprise solutions on Google Cloud Platform. This learning path helps those looking to earn this prestigious certification.",
           "URL": "https://www.linkedin.com/learning/certificates/5eef7971f04bcd1433bfa65e3bb693e84f77316f1e1a07472bbb9994acdcc981",
           "image": {
-            "alt": "1670587482502.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/77509cb7-ce2d-4a93-89a8-a996e4069fba_1670587482502.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/77509cb7-ce2d-4a93-89a8-a996e4069fba_1670587482502.jpeg",
+            "alt": "1670587482502.jpeg"
           }
         },
         "linkedCompetences": [
@@ -140,19 +144,25 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ISTQB Foundation Level",
-        "startDate": "2022-04-01",
-        "institution": {
-          "name": "ISTQB",
-          "description": "Foundation Level Certificate in Software Testing",
-          "image": {
-            "alt": "istqb certificate.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/20/d218f437-dc6f-4e4d-9de1-1cb3a0cf2118_istqb-certificate.jpg"
-          }
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -161,8 +171,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alejandrogullon/"
+          "URL": "https://www.linkedin.com/in/alejandrogullon/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/agullon",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "alejandro.gullon@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "618251704",
+          "countryCode": "+34"
         }
       ]
     },
@@ -174,10 +197,10 @@
     },
     "status": "openToOffers"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Python",
+        "name": "Bash",
         "type": "technology"
       },
       {
@@ -185,13 +208,14 @@
         "type": "technology"
       },
       {
-        "name": "Bash",
+        "name": "OpenShift",
         "type": "technology"
       },
       {
-        "name": "OpenShift",
+        "name": "Python",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Este año me ha hecho darme cuenta de lo mucho que valoro trabajar siempre desde casa. Poder dedicar una jornada entera a desarrollar algo (escribir código) con mis horarios y mi propia gestión del tiempo es algo que disfruto y valoro mucho. No imaginaba que lo disfrutaría y me gustaría tanto. Valoro mucho el teletrabajo y la independecia.\n\nMi trabajo ideal sería en una empresa que se dedicara a resolver problemas que ayuden directamente a las personas (sector educación o sanidad por ejemplo) más que un nuevo marketplace. Me encantaría poder entender los problemas verdaderos de los usuarios y crear soluciones que los ayuden desde el primer día.\n\nTambién valoro mucho que a nivel técnico presente retos de los cuales aprender."
   }
 }
