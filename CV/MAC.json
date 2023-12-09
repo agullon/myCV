@@ -11,8 +11,8 @@
       "title": "Software Engineer",
       "description": "Software Quality Engineer",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/8cdf4faf-ad29-47f4-9791-46ae5b226568_linkedin-photo-176.linkedin-photo-176",
-        "alt": "23/12/09/8cdf4faf-ad29-47f4-9791-46ae5b226568_linkedin-photo-176.linkedin-photo-176"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/a4b58a1a-9aac-434e-a018-a4d8ff159174_linkedin-photo-176.linkedin-photo-176",
+        "alt": "23/12/09/a4b58a1a-9aac-434e-a018-a4d8ff159174_linkedin-photo-176.linkedin-photo-176"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
@@ -32,6 +32,11 @@
   },
   "knowledge": {
     "languages": [
+      {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
       {
         "name": "EN",
         "fullName": "Inglés",
