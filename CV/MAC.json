@@ -7,12 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "Alejandro",
-      "surnames": "Gullón Vega",
+      "surnames": "Gullón",
       "title": "Software Engineer",
       "description": "Software Quality Engineer",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/12a91fee-3f85-4266-8f44-be03af016f82_linkedin-photo-176.linkedin-photo-176",
-        "alt": "23/12/09/12a91fee-3f85-4266-8f44-be03af016f82_linkedin-photo-176.linkedin-photo-176"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/02f71dd9-2194-448b-800f-6e81dbd85286_linkedin-photo-176.linkedin-photo-176",
+        "alt": "23/12/09/02f71dd9-2194-448b-800f-6e81dbd85286_linkedin-photo-176.linkedin-photo-176"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
@@ -36,8 +36,8 @@
         "organization": {
           "name": "Red Hat",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/1675db53-8f48-44d2-aef2-ca0576c9a951_linkedin-photo-176.linkedin-photo-176",
-            "alt": "23/12/09/1675db53-8f48-44d2-aef2-ca0576c9a951_linkedin-photo-176.linkedin-photo-176"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/dcfa685b-6716-455a-986c-cec44e384421_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/dcfa685b-6716-455a-986c-cec44e384421_linkedin-photo-176.linkedin-photo-176"
           }
         },
         "roles": [
@@ -56,8 +56,8 @@
         "organization": {
           "name": "Red Hat",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/4708fad2-6bdd-47c1-9c11-534c9052361b_linkedin-photo-176.linkedin-photo-176",
-            "alt": "23/12/09/4708fad2-6bdd-47c1-9c11-534c9052361b_linkedin-photo-176.linkedin-photo-176"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/fa8d11e6-414b-4dfb-9d05-80e24982461e_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/fa8d11e6-414b-4dfb-9d05-80e24982461e_linkedin-photo-176.linkedin-photo-176"
           }
         },
         "roles": [
@@ -77,8 +77,8 @@
         "organization": {
           "name": "Solera Global Data & Content",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/26c0b084-f551-4a54-9721-25dad73bef2b_linkedin-photo-176.linkedin-photo-176",
-            "alt": "23/12/09/26c0b084-f551-4a54-9721-25dad73bef2b_linkedin-photo-176.linkedin-photo-176"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/0f1a1ed5-2f9e-48e7-90bd-81e41ad6888b_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/0f1a1ed5-2f9e-48e7-90bd-81e41ad6888b_linkedin-photo-176.linkedin-photo-176"
           }
         },
         "roles": [
@@ -93,8 +93,8 @@
         "organization": {
           "name": "Mántica Solutions",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/6e080420-0f78-4890-8836-9ec5960f6100_linkedin-photo-176.linkedin-photo-176",
-            "alt": "23/12/09/6e080420-0f78-4890-8836-9ec5960f6100_linkedin-photo-176.linkedin-photo-176"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/05b535e9-53a8-4033-aeda-cec6bbaf3283_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/05b535e9-53a8-4033-aeda-cec6bbaf3283_linkedin-photo-176.linkedin-photo-176"
           }
         },
         "roles": [
