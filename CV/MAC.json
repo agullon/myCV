@@ -7,78 +7,26 @@
   "aboutMe": {
     "profile": {
       "name": "Alejandro",
-      "surnames": "Gullón",
-      "title": "Software Quality Engineer",
+      "surnames": "Gullón Vega",
+      "title": "Software Engineer",
       "description": "Software Quality Engineer",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/8cdf4faf-ad29-47f4-9791-46ae5b226568_linkedin-photo-176.linkedin-photo-176",
+        "alt": "23/12/09/8cdf4faf-ad29-47f4-9791-46ae5b226568_linkedin-photo-176.linkedin-photo-176"
+      },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
-        "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alejandrogullon/"
+        "URL": "https://linkedin.com/in/alejandrogullon"
       },
       {
         "type": "github",
         "URL": "https://github.com/agullon"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Red Hat"
-        },
-        "roles": [
-          {
-            "name": "Software Quality Engineer",
-            "startDate": "2021-01-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Solera Global Data & Content"
-        },
-        "roles": [
-          {
-            "name": "QA Automation Engineer",
-            "startDate": "2017-11-01",
-            "finishDate": "2021-01-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Mántica Solutions"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2014-04-01",
-            "finishDate": "2017-11-30",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -157,33 +105,13 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Adaptability to change",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Attention to detail",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/alejandrogullon/",
+          "URL": "https://linkedin.com/in/alejandrogullon",
           "type": "linkedin"
         },
         {
