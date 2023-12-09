@@ -11,8 +11,8 @@
       "title": "Software Engineer",
       "description": "Software Quality Engineer",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/a4b58a1a-9aac-434e-a018-a4d8ff159174_linkedin-photo-176.linkedin-photo-176",
-        "alt": "23/12/09/a4b58a1a-9aac-434e-a018-a4d8ff159174_linkedin-photo-176.linkedin-photo-176"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/12a91fee-3f85-4266-8f44-be03af016f82_linkedin-photo-176.linkedin-photo-176",
+        "alt": "23/12/09/12a91fee-3f85-4266-8f44-be03af016f82_linkedin-photo-176.linkedin-photo-176"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
@@ -27,6 +27,83 @@
       {
         "type": "github",
         "URL": "https://github.com/agullon"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Red Hat",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/1675db53-8f48-44d2-aef2-ca0576c9a951_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/1675db53-8f48-44d2-aef2-ca0576c9a951_linkedin-photo-176.linkedin-photo-176"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Quality Engineer - MicroShift team",
+            "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "- Performance Testing: run kube-burner workloads with Ansible\n- Stress Testing: create a framework to run Test Suites under restricted hardware resources\n- Jenkins infrastructure: refactor test environments (VMs with custom images)\n\nTools: kubernetes, kube-burner, Ansible, virsh, OpenShift, podman, bash scripting, python, Jenkins, Linux, Groovy,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Red Hat",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/4708fad2-6bdd-47c1-9c11-534c9052361b_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/4708fad2-6bdd-47c1-9c11-534c9052361b_linkedin-photo-176.linkedin-photo-176"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Quality Engineer - RHOSAK team",
+            "startDate": "2021-01-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "RHOSAK pre SRE team (Kafka managed service on OpenShift):\n- Fault Testing: test system resilience, alerting, and Prometheus metrics\n- Automate and define SRE recipes to resolve incidents\n- Grafana: dashboards creation\n- DORA metrics: create a tool to gather and report RHOSAK metrics\n- Performance Testing: Kafka performance with OMB deploying clients with terraform on GCP and AWS\n- Jenkins pipelines: create JCasC pipelines to trigger Tests and gather results\n\nTools: kubernetes, OpenShift, docker, podman, bash scripting, Prometheus, Grafana, python, go, krkn, OMB, Jenkins, Kafka, AWS, GCP, Linux, JUnit5, Groovy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Solera Global Data & Content",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/26c0b084-f551-4a54-9721-25dad73bef2b_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/26c0b084-f551-4a54-9721-25dad73bef2b_linkedin-photo-176.linkedin-photo-176"
+          }
+        },
+        "roles": [
+          {
+            "name": "QA Automation Engineer",
+            "startDate": "2017-11-01",
+            "finishDate": "2021-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mántica Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/09/6e080420-0f78-4890-8836-9ec5960f6100_linkedin-photo-176.linkedin-photo-176",
+            "alt": "23/12/09/6e080420-0f78-4890-8836-9ec5960f6100_linkedin-photo-176.linkedin-photo-176"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2014-04-01",
+            "finishDate": "2017-11-30"
+          }
+        ]
       }
     ]
   },
